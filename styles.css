@@ -66,8 +66,8 @@ color: yellow
 P {
   background-color: #4CAF50;
     color: WHITE;
-    MARGIN: 9REM;
-    padding: 7rem;
+    MARGIN: 2REM;
+    padding: 4rem;
  border-radius: 50px;
 text-shadow: 1px 1px 2px BLUE, 0 0 25px green, 0 0 5px YELLOW;
 ALIGN="LEFT";
@@ -75,7 +75,7 @@ ALIGN="LEFT";
 
 p:hover{
 
-transform : scale(1.12) rotate(2deg);
+transform : scale(1.002) rotate(-1deg);
 background:linear-gradient(#4681f4 ,#F9D423 );
 
 }
